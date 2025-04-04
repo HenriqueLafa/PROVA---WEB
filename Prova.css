@@ -1,16 +1,28 @@
+*{
+
+margin: 0;
+padding: 0;
+
+
+}
+
+
+
 header {
 display: flex;
 justify-content: space-evenly;
 background-color: black;
 color: white;
 gap: 50px;
-padding: 0px;
+padding: 10px;
 
 
 }
 header div h1 {
 margin-right: 800px;
-margin-top: 40px;
+margin-top: 20px;
+margin-bottom: 10px;
+
 
 
 }
@@ -19,7 +31,7 @@ margin-top: 40px;
 display: flex;
 justify-content: center;
 gap: 20px;
-margin-top: 50px;
+margin-top: 30px;
 color: white;
 list-style: none;
 
@@ -28,5 +40,88 @@ list-style: none;
 .list-menu ul li a {
 color: white;
 text-decoration: none;
+
+}
+
+.section-01 {
+padding: 250px;
+ background-image: url(sdb-1881206_1280.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.div-primeira {
+
+
+    
+}
+
+
+
+
+.div-primeira h1 {
+    font-size: 40px;
+    color: white;
+    display: flex;
+padding-bottom: 20px;
+  
+   
+ 
+}
+
+.div-primeira p {
+color: white;
+
+
+
+}
+
+.div-primeira button {
+width: 150px;
+height: 35px;
+margin-top: 20px;
+background-color: black;
+color: white;
+
+
+
+}
+
+.section-02 {
+padding: 250px;
+background-image: url(living-room-1835923_1280.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+
+}
+
+.div-segunda h1 {
+    font-size: 40px;
+    color: black;
+    display: flex;
+padding-bottom: 20px;
+  
+   
+ 
+}
+
+.div-segunda p {
+color: black;
+
+
+
+}
+
+.div-segunda button {
+width: 150px;
+height: 35px;
+margin-top: 20px;
+background-color: white;
+color: rgb(0, 0, 0)
+
+
 
 }

@@ -53,7 +53,7 @@ background-position: center;
 
 .div-primeira {
 
-
+    width: 400px;
     
 }
 
@@ -97,6 +97,15 @@ background-position: center;
 
 
 }
+
+.div-segunda {
+width: 400px;
+
+
+}
+
+
+
 
 .div-segunda h1 {
     font-size: 40px;

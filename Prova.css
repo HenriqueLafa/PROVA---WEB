@@ -134,3 +134,16 @@ color: rgb(0, 0, 0)
 
 
 }
+
+footer {
+color: white;
+background-color:black ;
+display: flex;
+flex-direction: column;
+text-align: center;
+padding: 25px;
+line-height: 30px;
+
+
+}
+
